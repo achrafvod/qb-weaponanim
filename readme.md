@@ -1,0 +1,2 @@
+# Weapon Animation
+command: /weaponanim
